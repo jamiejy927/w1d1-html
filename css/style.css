@@ -8,8 +8,20 @@ body {
 
 h1 {
     background-color: lightblue;
+    text-align: center;
+}
+
+h2 {
+    background-color: lightgray;
+    text-align: center;
 }
 
 p {
-    text-decoration: underline;
+    /* text-decoration: underline; */
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
 }
